@@ -27,6 +27,6 @@
 
 ---
 
-⚡ **Fun Fact:**  
+###⚡ **Fun Fact:**  
 My favorite game is Rocket League. I love listening to music, solving problems, automating tasks whenever I see an opportunity, and continuously learning new things.  
 
