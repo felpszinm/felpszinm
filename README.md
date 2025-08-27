@@ -22,7 +22,7 @@
 
 ## 📮 Connect With Me
 
-- **Profile:** [LinkedIn](https://www.linkedin.com/in/felipemartinsdev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- **Profile:** [LinkedIn](https://www.linkedin.com/in/felipemartinsdev)  
 - **Email:** felipemartinz480@gmail.com  
 
 ---
