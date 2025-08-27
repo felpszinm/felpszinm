@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Felipe Santos!
 
-<!--
-**felpszinm/felpszinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ I enjoy solving problems and I’m highly focused on Artificial Intelligence, data analysis with Python, and I specialize in advanced spreadsheet analysis using Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack & *Interests*
+
+- **Development:** Python  
+- **Cloud & DevOps:** Docker  
+- **Frameworks & Tools:** Python, Pandas, SQL  
+
+---
+
+## 🌱 Currently Learning
+
+- 🐳 **Docker** – Optimizing containerized applications  
+- 📊 **Statistics** – Enhancing data analysis skills for AI & predictive modeling  
+- 🐘 **Postgres** – Expanding database management expertise  
+
+---
+
+## 📮 Connect With Me
+
+- **Profile:** [LinkedIn](https://www.linkedin.com/in/felipemartinsdev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- **Email:** felipemartinz480@gmail.com  
+
+---
+
+⚡ **Fun Fact:**  
+My favorite game is Rocket League. I love listening to music, solving problems, automating tasks whenever I see an opportunity, and continuously learning new things.  
+
