@@ -8,7 +8,7 @@
 
 - **Development:** Python  
 - **Cloud & DevOps:** Docker  
-- **Frameworks & Tools:** Python, Pandas, SQL  
+- **Frameworks & Tools:** Python, Pandas, openpyxl, n8n, SQL  
 
 ---
 
