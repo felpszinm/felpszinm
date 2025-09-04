@@ -17,6 +17,7 @@
 - 🐳 **Docker** – Optimizing containerized applications  
 - 📊 **Statistics** – Enhancing data analysis skills for AI & predictive modeling  
 - 🐘 **Postgres** – Expanding database management expertise  
+- 🌐 **Web Development (HTML, CSS, JavaScript)** – Building modern and responsive web applications  
 
 ---
 
