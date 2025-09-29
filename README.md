@@ -7,14 +7,14 @@
 ## ⚡ Tech Stack & *Interests*
 
 - **Development:** Python  
-- **Cloud & DevOps:** Docker  
-- **Frameworks & Tools:** Python, Pandas, openpyxl, n8n, SQL  
+- **Cloud & DevOps:** Docker, Docker Swarm  
+- **Frameworks & Tools:** Python, FastAPI, Pandas, openpyxl, n8n, SQL, SQLAlchemy
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🐳 **Docker** – Optimizing containerized applications  
+- 🐳 **Docker** – Optimizing containerized applications
 - 📊 **Statistics** – Enhancing data analysis skills for AI & predictive modeling  
 - 🐘 **Postgres** – Expanding database management expertise  
 - 🌐 **Web Development (HTML, CSS, JavaScript)** – Building modern and responsive web applications  
