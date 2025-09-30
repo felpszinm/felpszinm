@@ -24,12 +24,11 @@
 ## 🔢 Statistics
 
 <a href="https://github.com/felpszinm/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=felpszinm&show_icons=true&theme=dark)" />
-
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=felpszinm&show_icons=true&theme=dark&card_width=400" />
 </a>
 
 <a href="https://github.com/felpszinm/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felpszinm&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felpszinm&layout=compact&langs_count=8&card_width=400&theme=dark" />
 </a>
 
 ---
