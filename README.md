@@ -21,6 +21,11 @@
 
 ---
 
+## 🔢 Statistics
+![Felpszinm's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpszinm&show_icons=true&theme=dark)
+
+---
+
 ## 📮 Connect With Me
 
 Connect with me for opportunities, networking, or professional collaborations.
