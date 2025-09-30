@@ -22,7 +22,7 @@
 ---
 
 ## 🔢 Statistics
-![Felpszinm's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpszinm&show_icons=true&theme=dark)
+![Felpszinm's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpszinm&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpszinm&layout=compact)
 
 ---
 
